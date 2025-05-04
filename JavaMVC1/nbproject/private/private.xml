@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Dokumen/SEMESTER%204/Pemrograman%20Berorientasi%20Objek/Pertemuan8(MVC)/JavaMVC1/src/com/telu/todo/run/Main.java</file>
+            <file>file:/D:/Dokumen/SEMESTER%204/Pemrograman%20Berorientasi%20Objek/Pertemuan8(MVC)/JavaMVC1/src/com/telu/todo/view/TodoListView.java</file>
+            <file>file:/D:/Dokumen/SEMESTER%204/Pemrograman%20Berorientasi%20Objek/Pertemuan8(MVC)/JavaMVC1/src/com/telu/todo/service/impl/TodoListServiceImpl.java</file>
+            <file>file:/D:/Dokumen/SEMESTER%204/Pemrograman%20Berorientasi%20Objek/Pertemuan8(MVC)/JavaMVC1/src/com/telu/todo/service/TodoListService.java</file>
+            <file>file:/D:/Dokumen/SEMESTER%204/Pemrograman%20Berorientasi%20Objek/Pertemuan8(MVC)/JavaMVC1/src/com/telu/todo/model/TodoList.java</file>
+            <file>file:/D:/Dokumen/SEMESTER%204/Pemrograman%20Berorientasi%20Objek/Pertemuan8(MVC)/JavaMVC1/src/com/telu/todo/model/User.java</file>
+            <file>file:/D:/Dokumen/SEMESTER%204/Pemrograman%20Berorientasi%20Objek/Pertemuan8(MVC)/JavaMVC1/src/com/telu/todo/utilities/DatabaseUtilities.java</file>
+        </group>
+    </open-files>
+</project-private>
