@@ -26,7 +26,7 @@ public class DatabaseUtilities {
                 
                 String url="jdbc:mysql://localhost:3306/java_mvc";
                 String user="root";
-                String password="285211";
+                String password="";
                 
                 connection=DriverManager.getConnection(url, user, password);
                 //System.out.println("Koneksi Berhasil");
